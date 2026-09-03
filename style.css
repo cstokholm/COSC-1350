@@ -1,0 +1,12 @@
+.index-header {
+    background-color: teal;
+}
+.index-body {
+    text-align: center;
+}
+.index-footer {
+    background-color: aquamarine;
+}
+body {
+    font: garamond, sans-serif;
+}
