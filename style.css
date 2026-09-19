@@ -11,6 +11,6 @@
 body {
     font-family: robotomono, garamond, sans-serif;
 }
-#my-name {
-    font: times new roman;
+header #my-name {
+    font-family: playwright, times new roman, sans-serif;
 }
