@@ -14,6 +14,6 @@ body {
 header #my-name {
     font-family: playwright, times new roman, sans-serif;
 }
-img {
+a img {
     border: 6px orange solid;
 }
