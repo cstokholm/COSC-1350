@@ -3,10 +3,11 @@
 }
 .index-body {
     text-align: center;
+    background-color: lightblue;
 }
 .index-footer {
     background-color: aquamarine;
 }
 body {
-    font: garamond, sans-serif;
+    font-family: robotomono, garamond, sans-serif;
 }
